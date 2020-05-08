@@ -592,7 +592,7 @@
 				TargetAttributes = {
 					6F8ADBF12314D1F300E235A9 = {
 						CreatedOnToolsVersion = 10.3;
-						DevelopmentTeam = U5LAHK8PW6;
+						DevelopmentTeam = J43UJWP4Z4;
 						ProvisioningStyle = Automatic;
 					};
 					834F9B01212E560100F95A54 = {
@@ -1041,7 +1041,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = U5LAHK8PW6;
+				DEVELOPMENT_TEAM = J43UJWP4Z4;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
